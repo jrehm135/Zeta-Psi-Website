@@ -3,7 +3,7 @@ body{
 }
 
 #topImage {
-	height: 300px;
+	height: 25%;
 	width: 100%;
 	background: url(../images/houseWide.png);
 	background-repeat:no-repeat;
@@ -12,11 +12,12 @@ body{
 }
 
 #title {
-	font-size: 600%;
+	font-size: 6vw;
 	color: white;
 	text-align: center;
 	margin:0px;
 	padding-top: 10%;
+	padding-bottom: 4%;
 }
 
 .menu {
@@ -83,4 +84,5 @@ body{
 	padding: 5%;
 	padding-top:2.5%;
 	padding-bottom:2.5%;
+	overflow: auto;
 }
