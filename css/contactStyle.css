@@ -101,6 +101,7 @@ img {
 	border: solid 1px;
 	margin: 2%;
 	padding: 2%;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 
