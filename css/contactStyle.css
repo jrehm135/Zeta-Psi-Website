@@ -88,10 +88,12 @@ img {
 
 #divWrapper1{
 	height: 50%;
+	overflow: auto;
 }
 
 #divWrapper2{
 	height: 50%;
+	overflow: auto;
 }
 
 .portraitDiv{
@@ -102,6 +104,7 @@ img {
 	margin: 2%;
 	padding: 2%;
 	box-shadow: 10px 10px 5px #888888;
+	word-wrap: break-word;
 }
 
 
