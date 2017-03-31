@@ -87,6 +87,7 @@ body{
 	padding-bottom:2.5%;
 	display: flex;
 	overflow: auto;
+	background-size: cover;
 }
 
 #leftSide{

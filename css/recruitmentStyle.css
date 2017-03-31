@@ -72,12 +72,6 @@ img {
 	font-size: 20px;
 }
 
-#about{
-	text-align: center;
-	margin:auto;
-	font-size: 40px;
-}
-
 .pDiv{
 	max-width: 75%;
 	margin-left: 12.5%;
@@ -90,6 +84,7 @@ img {
 	padding-top:2.5%;
 	padding-bottom:2.5%;
 	overflow: auto;
+	background-size: cover;
 }
 
 #schedule{
